@@ -4,3 +4,4 @@
 - ADATA LEGEND 1TB (Arch Linux)
 - Patriot P3 1TB (Windows 11)
 - Montech XR Tempered Glass Mid Tower Case (White) (XR (W))
+- GIGABYTE B550MK DS-3H AC R2 Motherboard
