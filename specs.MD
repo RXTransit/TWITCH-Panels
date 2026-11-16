@@ -1,0 +1,6 @@
+- Ryzen 7 5700X CPU
+- Asrock Steel Legend Intel Arc B580 GPU
+- 32GB DDR4 KINGSTON FURY/HYPERX RAM
+- ADATA LEGEND 1TB (Arch Linux)
+- Patriot P3 1TB (Windows 11)
+- Montech XR Tempered Glass Mid Tower Case (White) (XR (W))
